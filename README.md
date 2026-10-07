@@ -1,1 +1,1 @@
-# back
+# back\n\n## Conta administrativa Nana & Mimi\n\nO backend cria automaticamente a conta administrativa no primeiro start e também corrige uma conta existente para `cargo = admin`.\n\nNo Render, configure estas variáveis de ambiente (recomendado):\n\n- `NANA_MIMI_ADMIN_EMAIL` = `nanaemimimodainfantil@gmail.com`\n- `NANA_MIMI_ADMIN_PASSWORD` = `NanaMimi123`\n- `NANA_MIMI_ADMIN_NAME` = `Nana & Mimi`\n\nSe essas variáveis não forem configuradas, o backend usa esses mesmos valores como padrão.\n
